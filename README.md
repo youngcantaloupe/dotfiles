@@ -15,7 +15,6 @@ These plugins are from [zsh-users](https://github.com/zsh-users)
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 
-###### jet
 ## Requirements
 
 Ensure that you have the following installed on your system. 
