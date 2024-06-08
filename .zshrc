@@ -53,6 +53,6 @@ zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
 
 # Aliases
 alias ls='ls --color'
-alias vim=nvim
-alias vi=nvim
+#alias vim=nvim
+#alias vi=nvim
 
